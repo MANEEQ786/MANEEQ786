@@ -1,6 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Muhmmad Aneeq</h1>
 <h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ 🌍</h3>
 <img align="right" alt="coding" width ="400" src="https://gifdb.com/images/high/ai-humanoid-science-development-sndaiarg5ati3c47.webp">
+<img align="left" alt="ai" width ="400" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.webp">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maneeq786" alt="maneeq786" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muhammadaneeqq1" target="blank"><img src="https://img.shields.io/twitter/follow/muhammadaneeqq1?logo=twitter&style=for-the-badge" alt="muhammadaneeqq1" /></a> </p>
