@@ -1,3 +1,13 @@
+<div align="center">
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="m-aneeq" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/m-aneeq?trk=profile-badge">MUHAMMAD ANEEQ</a>
+  </div>
+</div>
+
+<h1 align="center">Hi there! 👋 I'm Muhammad Aneeq</h1>
+<h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ 🌍</h3>
+
+
 <h1 align="center">Hi there! 👋 I'm Muhammad Aneeq</h1>
 <h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ 🌍</h3>
 
