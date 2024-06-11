@@ -1,13 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQFlRF1iviCckw/profile-displaybackgroundimage-shrink_350_1400/0/1700916301420?e=1723680000&v=beta&t=srgKOKdA8dbOmokWW2aUvxTJnY3BRo5_Xx0E1O96DOs)
-
-
-
 <h1 align="center">Hi there! 👋 I'm Muhammad Aneeq</h1>
-<h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ 🌍</h3>
-
-
-<h1 align="center">Hi there! 👋 I'm Muhammad Aneeq</h1>
-<h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ 🌍</h3>
+<h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ </h3>
 
 <div align="center">
   <img align="center" alt="coding" width="400" height="250" src="https://gifdb.com/images/high/ai-humanoid-science-development-sndaiarg5ati3c47.webp">
