@@ -1,10 +1,4 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div align="center">
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="m-aneeq" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/m-aneeq?trk=profile-badge">MUHAMMAD ANEEQ</a>
-  </div>
-</div>
+![logo](https://media.licdn.com/dms/image/D4D16AQFlRF1iviCckw/profile-displaybackgroundimage-shrink_350_1400/0/1700916301420?e=1723680000&v=beta&t=srgKOKdA8dbOmokWW2aUvxTJnY3BRo5_Xx0E1O96DOs)
 
 
 
