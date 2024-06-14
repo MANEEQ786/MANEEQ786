@@ -2,11 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Muhammad Aneeq</h1>
 <h3 align="center">🚀 Aspiring AI 🤖 and Computer Vision 👀 Enthusiast from Pakistan 🇵🇰 ☪️ </h3>
 
-<div align="center">
-  <img align="center" alt="coding" width="400" height="250" src="https://gifdb.com/images/high/ai-humanoid-science-development-sndaiarg5ati3c47.webp">
-  <img align="center" alt="ai" width="400" height="250" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.webp">
-  <img align="center" alt="ai2" width="400" height="250" src="https://gifdb.com/images/high/ai-robot-human-blinking-qh9mhh71l2fxqte4.webp">
-</div>
+
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -26,8 +22,6 @@
 
 - 👯 I’m looking to collaborate on **Driverless Car - Computer Vision Project 🤝🚗** 
   - You can collaborate if you have expertise in computer vision 👨‍💻👩‍💻
-
-- 🤝 I’m looking for help with **Driverless Car - Computer Vision Project 🤝🚗**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MANEEQ786?tab=repositories](https://github.com/MANEEQ786?tab=repositories)
 
