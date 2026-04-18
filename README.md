@@ -6,9 +6,15 @@
 <br/>
 
 <!-- ✅ WORKING: readme-typing-svg via demolab.com -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=🤖+Building+Production+AI+Systems;🧠+LLMs+%7C+RAG+%7C+Multi-Agent+%7C+Healthcare+AI;👁️+Computer+Vision+%7C+YOLOv8+%7C+MediaPipe;⚡+Transformers+%7C+LangChain+%7C+Diffusion+Models;🚀+From+Research+to+Deployment+—+End-to-End" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=980&lines=Building+production-grade+AI+systems;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+Healthcare+AI;From+research+to+deployment+%E2%80%94+end-to-end"
+    alt="Typing SVG"
+  />
+</a>
 
-<br/><br/>
+<br/>
+<br/>
 
 <!-- ✅ WORKING: shields.io badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Aneeq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-aneeq)
