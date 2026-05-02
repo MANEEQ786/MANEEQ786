@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,40:0369a1,80:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=62&descSize=17&animation=fadeIn&stroke=ffffff&strokeWidth=1" width="100%" />
 
 <br/>
 
@@ -495,14 +494,6 @@ active_research:
 <br/>
 
 <!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake.svg"/>
-  <img alt="Snake animation"
-    src="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake.svg"
-    width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22d3ee,50:0ea5e9,100:0f172a&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
