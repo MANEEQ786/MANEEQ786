@@ -8,6 +8,7 @@
 </picture>
 
 <br/>
+<br/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,7 +16,9 @@
 </a>
 
 <br/>
-
+<br/>
+<br/>
+<br/>
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake-dark.svg" />
