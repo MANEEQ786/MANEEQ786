@@ -2,15 +2,15 @@
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6366f1,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:e0f2fe,50:0ea5e9,100:0284c7&text=Muhammad%20Aneeq&fontColor=0f172a&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6366f1,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 </picture>
 
 <br/>
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Building+production-grade+AI+systems+%E2%80%94+end+to+end;Voice+AI+%7C+LLMs+%7C+RAG+%7C+Healthcare+AI+%7C+Computer+Vision;Real-time+speech+pipelines+%7C+Multi-Agent+orchestration" alt="Typing SVG" />
 </a>
 
@@ -266,9 +266,9 @@ print(me)  # → AI Engineer | Voice AI Specialist | Builder | Problem Solver
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MANEEQ786&hide_border=true&background=0d1117&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&sideLabels=ffffff&dates=888888&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MANEEQ786&hide_border=true&background=ffffff&ring=0284c7&fire=f97316&currStreakLabel=0284c7&sideLabels=1e293b&dates=64748b&border_radius=10" />
-  <img height="175em" src="https://streak-stats.demolab.com?user=MANEEQ786&hide_border=true&background=0d1117&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&sideLabels=ffffff&dates=888888&border_radius=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MANEEQ786&hide_border=true&background=0d1117&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=MANEEQ786&hide_border=true&background=ffffff&ring=0284c7&fire=f97316&currStreakLabel=0284c7&currStreakNum=1e293b&sideLabels=1e293b&sideNums=1e293b&dates=64748b&border_radius=10" />
+  <img height="175em" src="https://streak-stats.demolab.com/?user=MANEEQ786&hide_border=true&background=0d1117&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=888888&border_radius=10" />
 </picture>
 
 </div>
@@ -498,9 +498,9 @@ active_research:
 
 <!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22d3ee,100:0f172a&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22d3ee,50:0ea5e9,100:6366f1&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284c7,100:e0f2fe&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=0f172a&fontSize=22&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22d3ee,100:0f172a&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22d3ee,50:0ea5e9,100:6366f1&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" width="100%" />
 </picture>
 
 </div>
