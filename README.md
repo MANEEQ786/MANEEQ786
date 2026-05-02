@@ -1,24 +1,19 @@
 <div align="center">
 
 <!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6366f1,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:e0f2fe,50:0ea5e9,100:0284c7&text=Muhammad%20Aneeq&fontColor=0f172a&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6366f1,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=AI%20Engineer%20%7C%20Voice%20AI%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0ea5e9,100:22d3ee&text=Muhammad%20Aneeq&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems%20%7C%20Healthcare%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+
 
 <br/>
-<br/>
+
 
 <!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=Building+production-grade+AI+systems+%E2%80%94+end+to+end;Voice+AI+%7C+LLMs+%7C+RAG+%7C+Healthcare+AI+%7C+Computer+Vision;Real-time+speech+pipelines+%7C+Multi-Agent+orchestration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+production-grade+AI+systems+%E2%80%94+end+to+end;Voice+AI+%7C+LLMs+%7C+RAG+%7C+Healthcare+AI+%7C+Computer+Vision;Real-time+speech+pipelines+%7C+Multi-Agent+orchestration" alt="Typing SVG" />
 </a>
 
 <br/>
-<br/>
-<br/>
-<br/>
+
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake-dark.svg" />
@@ -58,7 +53,7 @@ class MuhammadAneeq:
         self.phone       = "+92 333 0245529"
         self.email       = "aneeqqamar13@gmail.com"
         self.education   = "BS CS (AI) — PMAS-AAUR | Sep 2021 – Jul 2025"
-        self.experience  = "1.5+ years production AI systems"
+        self.experience  = "2.5+ years production AI systems"
 
         self.domains = [
             "🎙️  Voice AI & Real-Time Speech Pipelines",
@@ -501,9 +496,13 @@ active_research:
 
 <!-- ═══════════════════ FOOTER WAVE ═══════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22d3ee,50:0ea5e9,100:6366f1&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0284c7,100:e0f2fe&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=0f172a&fontSize=22&fontAlignY=65&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22d3ee,50:0ea5e9,100:6366f1&section=footer&text=Let%27s%20Build%20the%20Future%20of%20AI%20%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlignY=65&animation=fadeIn" width="100%" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake.svg"/>
+  <img alt="Snake animation"
+    src="https://raw.githubusercontent.com/MANEEQ786/MANEEQ786/output/github-snake.svg"
+    width="100%"/>
 </picture>
 
 </div>
