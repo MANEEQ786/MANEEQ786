@@ -355,14 +355,14 @@ print(me)  # → AI Engineer | Voice AI Specialist | Builder | Problem Solver
 ```
 ┌──────────────────┬─────────────────────────────────────────────────────────────────┐
 │  Jan 2025        │  🚀  AI Engineer — VisionTact, Islamabad  (Present)             │
-│  — Present       │  ├─ Riya: Voice-to-voice AI interviewer (ASR+LLM+TTS)          │
+│  — Present       │  ├─ Riya: Voice-to-voice AI interviewer (ASR+LLM+TTS)           │
 │                  │  ├─ TalentSage: AI-led video interviews & candidate screening   │
 │                  │  ├─ Low-latency speech pipelines for scalable interviews        │
 │                  │  ├─ LLM-driven adaptive questioning & evaluation reports        │
 │                  │  ├─ VoiceTact: Enterprise voice agents (NLU + Dialogue)         │
-│                  │  └─ CRM/scheduling/messaging platform integrations             │
+│                  │  └─ CRM/scheduling/messaging platform integrations              │
 ├──────────────────┼─────────────────────────────────────────────────────────────────┤
-│  Jul 2024        │  🏥  Junior AI Engineer — MTBC CareCloud, Rawalpindi            │
+│  Jul 2024        │  🏥 Junior AI Engineer — MTBC CareCloud, Rawalpindi             │
 │  — Jan 2025      │  ├─ Voice-Based PHR: Multi-agent conversational AI              │
 │                  │  ├─ Cirrus AI Notes: 20% reduction in documentation time        │
 │                  │  ├─ Text-to-Image API (diffusion, production scale)             │
@@ -371,10 +371,10 @@ print(me)  # → AI Engineer | Voice AI Specialist | Builder | Problem Solver
 │                  │  └─ Cirrus Insights: AI health recommendations                  │
 ├──────────────────┼─────────────────────────────────────────────────────────────────┤
 │  Jan 2024        │  🚁  Junior CV Engineer — Dione Technologies, Rawalpindi        │
-│  — Jun 2024      │  ├─ UAV vehicle detection: 90%+ accuracy                       │
+│  — Jun 2024      │  ├─ UAV vehicle detection: 90%+ accuracy                        │
 │                  │  ├─ Aerial crop monitoring (precision agriculture)              │
-│                  │  ├─ Object tracking & visual analysis systems                  │
-│                  │  └─ Autonomous application support                             │
+│                  │  ├─ Object tracking & visual analysis systems                   │
+│                  │  └─ Autonomous application support                              │
 └──────────────────┴─────────────────────────────────────────────────────────────────┘
 ```
 
